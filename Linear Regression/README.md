@@ -4,4 +4,4 @@ Given a Dataset of 2-Dimensional points, or N-Dimensional points, and a line of 
 
 The __Regression Line__ is the line of equation __y = ax + b__ that minimize the Mean Average Error.
 
-![Output of the computation](/Linear_Regression.png?raw=true "Output")
+![Output of the computation](/https://github.com/mrOranger/Python-for-math/blob/master/Linear%20Regression/Linear_Regression.PNG "Output")
