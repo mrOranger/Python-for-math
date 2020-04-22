@@ -12,6 +12,6 @@ The method is based on the following steps:
 
 About the last point of the method, it's dividied into the following sub-steps:
 
-> 4.1. Compute the step-size values of slope and intercept.
-> 4.2. Compute the new paratemeters of slope and intercept.
+> 4. 1. Compute the step-size values of slope and intercept.
+> 4. 1. Compute the new paratemeters of slope and intercept.
 
